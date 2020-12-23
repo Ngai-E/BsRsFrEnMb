@@ -1,0 +1,7 @@
+{
+  "name": "bus-revervation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
